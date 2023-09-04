@@ -7,4 +7,4 @@
 
 Join the channel to see more videos like this. [advik devops](https://yt.oia.bio/advik)
 
-![Pricing Card](/preview.png)
+![Pricing Card](/preview.gif)
