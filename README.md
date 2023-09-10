@@ -1,10 +1,8 @@
 # Responsive Pricing Card 🔥
-## [Watch it on youtube](https://youtu.be/)
+## [Watch it on youtube](https://youtu.be/nKnnr6rnf4A)
 ### Responsive  Website 
 
 
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
-
-Join the channel to see more videos like this. [advik devops](https://yt.oia.bio/advik)
+Join the channel to see more videos like this. [advik devops](https://www.youtube.com/channel/UCG7FelRjPwJ92oIkTJggtsA)
 
 ![Pricing Card](/preview.gif)
